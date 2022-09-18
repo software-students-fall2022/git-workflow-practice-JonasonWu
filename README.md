@@ -7,3 +7,8 @@ Another interesting portion of the article is that deadlines can change. During 
 # Response from Sarah Al-Towaity, sa5793
 
 Going into college, I did indeed have the naive belief that I will be taught everything that needs to be known in order to prepare for a job in the industry. Now that I am halfway through my academic journey, I can already anticipate the things that are listed in the article. One of the points mentioned in the article that I have come to accept about my college degree is that I will need to always be flexible to learn as I go, on the job. Nevertheless, the fact that this is the experience of most developers in the field helps reduces the stress of feeling inexperienced, induced by imposter syndrome.
+
+
+# Response from Danilo Montes, dem9855
+
+I have always struggled with the idea of my work in school playing out in the real world. Especially in high school, where it seemed like what I was learning in class was just preparing me for the next test, and would ultimately not be applied in any real world setting. Now in college, taking a course in software engineering, I expected to learn how a software development team operates, closely mimicking a real team performs on a day to day basis. However, after reading this article, I realized that even if the course prepared me in such a way, it still would not be able to prepare me for the actual job. No amount of college classes can truly prepare you for what a specific job will ask from you. 
