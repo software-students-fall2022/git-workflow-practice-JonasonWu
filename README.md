@@ -8,6 +8,9 @@ Another interesting portion of the article is that deadlines can change. During 
 
 Going into college, I did indeed have the naive belief that I will be taught everything that needs to be known in order to prepare for a job in the industry. Now that I am halfway through my academic journey, I can already anticipate the things that are listed in the article. One of the points mentioned in the article that I have come to accept about my college degree is that I will need to always be flexible to learn as I go, on the job. Nevertheless, the fact that this is the experience of most developers in the field helps reduces the stress of feeling inexperienced, induced by imposter syndrome.
 
+# Response - Brian Lin (bl2814)
+
+This is definetly an article I wish I had seen before entering college. In high school, I thought that college was this "fantastical" realm where I would be able to find my passion and get me life on track. Throughout my time in college, I was in a fruitless cat-and-mouse chase of trying to figure what I wanted to do. I first started out in the premed track and quickly segwayed out of that and into computer science. But now having settled in a bit more comfortably in this field, I agree with this articles opinion that there are a lot of things that won't be taught in the workplace. To be honest, I am unsure as to whether this is something I want to do in the future. But at this point, I am a little bit more reluctant and just ride the wave as it pulls me along.
 
 # Response from Danilo Montes, dem9855
 
